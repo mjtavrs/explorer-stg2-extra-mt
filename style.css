@@ -1,0 +1,59 @@
+body {
+    color: #828282;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+#imagem_mulher {
+    margin: 64px auto 32px;
+}
+
+h1 {
+    font-family: 'Dosis', sans-serif;
+    font-weight: normal;
+    margin-bottom: 16px;
+}
+
+h1 span {
+    color: #EE24FF;
+    font-weight: bold;
+}
+
+p {
+    font-size: 15px;
+    margin: 0 auto 64px;
+    width: 626px;
+}
+
+h1,
+strong,
+a {
+    color: #3F3D56;
+}
+
+.line {
+    border: 1px solid #ECEFF2;
+    margin: 0 auto 8px;
+    height: 0px;
+    width: 391px;
+}
+
+#links {
+    display: flex;
+    gap: 42px;
+    justify-content: center;
+    margin: 16px auto 0;
+}
+
+a {
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#wave {
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    width: 100vw;
+}
